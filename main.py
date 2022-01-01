@@ -6,8 +6,8 @@ import smtplib
 # os.mkdir("testing")
 
 # Enter your authentication details
-GMAIL_ID = 'souravkitkat7@gmail.com'
-GMAIL_PSWD = 'btechcse043'
+GMAIL_ID = ****** #Enter Your Email Id
+GMAIL_PSWD = ****** # Enter Your Password
 
 
 def sendEmail(to,sub,msg) :
